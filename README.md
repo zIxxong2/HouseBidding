@@ -44,7 +44,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project 📑
 
-[![Dongil][Company Logo]](https://user-images.githubusercontent.com/80026561/130745475-111c79e0-a388-428b-a7bb-dfd4eb8ac5c7.jpg)
+<img src="https://user-images.githubusercontent.com/80026561/130745475-111c79e0-a388-428b-a7bb-dfd4eb8ac5c7.jpg" alt="logo" width="400" height="300">
+
 
 주식회사 종합건축사사무소 동일건축(이하 "동일건축")의 업무 범위는 감리, 설계, 개발 등 이며, 
 
