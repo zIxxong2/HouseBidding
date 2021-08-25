@@ -117,3 +117,4 @@ Lee Seohyun
 [contributors-url]: https://github.com/zIxxong2/HouseBidding/graphs/contributors
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
 [issues-url]: https://github.com/zIxxong2/HouseBidding/issues
+[Company Logo]: https://user-images.githubusercontent.com/80026561/130745475-111c79e0-a388-428b-a7bb-dfd4eb8ac5c7.jpg
