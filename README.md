@@ -1,9 +1,12 @@
+<br />
 <p align="center">
-[![Contributors][contributors-shield]][contributors-url]
-[![Issues][issues-shield]][issues-url]
+  
+  [![Contributors][contributors-shield]][contributors-url]
+  [![Issues][issues-shield]][issues-url]
 
 </p>
-
+  <br />
+  
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
