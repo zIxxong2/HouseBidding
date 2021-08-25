@@ -42,7 +42,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About The Project 📑
 
 [![Dongil][Company Logo]](https://user-images.githubusercontent.com/80026561/130745475-111c79e0-a388-428b-a7bb-dfd4eb8ac5c7.jpg)
 
@@ -58,7 +58,7 @@
 예정가격이 산정되는데 있어서 패턴을 연구하여 용역 수주를 원활히 하고자 하여 데이터 분석을 진행하였다. 
 
 
-### Built With
+### Built With 🛠
 
 * [Python](https://www.python.org/)
 * [Rstudio](https://www.rstudio.com/)
@@ -69,7 +69,7 @@
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Usage 🔜
 
 
 주택법 입찰에 나온 데이터들로 예정가격의 산정되는 패턴을 연구하여 나온 모델을 가지고 
@@ -84,7 +84,7 @@
 
 
 <!-- Contributors -->
-## Contributors
+## Contributors 🤝
 
 Ahn Jisong 
 - [@ZIxxong2](https://github.com/zIxxong2) 
