@@ -1,5 +1,8 @@
+<p align="center">
 [![Contributors][contributors-shield]][contributors-url]
 [![Issues][issues-shield]][issues-url]
+
+</p>
 
 <!-- PROJECT LOGO -->
 <br />
@@ -38,7 +41,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Dongil][Company Logo]](https://example.com)
+[![Dongil][Company Logo]](https://user-images.githubusercontent.com/80026561/130745475-111c79e0-a388-428b-a7bb-dfd4eb8ac5c7.jpg)
 
 주식회사 종합건축사사무소 동일건축(이하 "동일건축")의 업무 범위는 감리, 설계, 개발 등 이며, 
 
@@ -64,6 +67,7 @@
 
 <!-- USAGE EXAMPLES -->
 ## Usage
+
 
 주택법 입찰에 나온 데이터들로 예정가격의 산정되는 패턴을 연구하여 나온 모델을 가지고 
 앞으로 공지되는 공고의 예정가격 대비 기초금액 비율을 예측한다. 
