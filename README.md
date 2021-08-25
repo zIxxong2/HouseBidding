@@ -14,10 +14,10 @@
 
   </a>
 
-  <h3 align="center">Bidding for Housing</h3>
+  <h3 align="center">경기대학교 데이터 청년 캠퍼스 </h3>
 
   <p align="center">
-    (주)종합건축사무소 동일건축 
+    (주)종합건축사무소 동일건축과 함께하는 파일럿 프로젝트 
     <br />
    
   </p>
