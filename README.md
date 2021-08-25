@@ -2,7 +2,7 @@
 
 
 <p align="center">
-    <img src="https://github.com/zIxxong2/HouseBidding/issues/1#issue-978733976" alt="logo" width="200" height="60">
+    <img src="https://github.com/zIxxong2/HouseBidding/issues/1#issue-978733976.png" alt="logo" width="200" height="60">
 </p>
 
 <p align="center">
