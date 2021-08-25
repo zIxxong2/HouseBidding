@@ -89,7 +89,7 @@
 ## Contributors 🤝
 
 Ahn Jisong 
-- [@ZIxxong2](https://github.com/zIxxong2) 
+- [@zIxxong2](https://github.com/zIxxong2) 
 - dkswlthd98@google.com
 
 Heo Seoyoon  
@@ -97,11 +97,11 @@ Heo Seoyoon
 - seoyoon130@gmail.com
 
 Jeon Ahhyeon 
-- [@ZIxxong2](https://github.com/zIxxong2) 
+- [@jeonahhyeon](https://github.com/jeonahhyeon) 
 - ns4512@kyonggi.ac.kr
 
 Kang Hamin 
-- [@ZIxxong2](https://github.com/zIxxong2) 
+- [@haminii](https://github.com/haminii) 
 - hamin9912@gamil.com
 
 Kim Daehyun
@@ -109,7 +109,7 @@ Kim Daehyun
 - ricky110@naver.com
 
 Lee Seohyun
-- [@ZIxxong2](https://github.com/zIxxong2) 
+- [@seohyun22](https://github.com/seohyun22) 
 - lsh2684360@naver.com
 
 
